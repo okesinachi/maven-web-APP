@@ -98,18 +98,12 @@
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
 	      <url>http://54.183.196.110:8081/repository/tesla-release/</url>
-	    </repository>
-	    
-		<repositories>
-    <repository>
-       <id>nexus</id>
-       <name>nexus proxy Repo</name>
-       <url>http://54.183.196.110:8081/repository/tesla-proxy/</url>
-    </repository>
-			
+	    </repository
+   
+		    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Snapshot Nexus Repository </name>
+	      <name>Landmark Technologies Snapshot Nexus Repository</name>
 	      <url>http://54.183.196.110:8081/repository/tesla-snapshot/</url>
 	    </snapshotRepository>
 	    
